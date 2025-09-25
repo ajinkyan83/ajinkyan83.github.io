@@ -1,29 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Technical Blog!"
 date:   2025-09-23 11:54:31 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## DevOps and CI/CD with GitHub, Jenkins, and GitHub Actions
 
-Jekyll requires blog post files to be named according to the following format:
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development lifecycle and deliver high-quality software continuously. CI/CD (Continuous Integration/Continuous Deployment) is a core part of DevOps, enabling automated building, testing, and deployment of code.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+### Key Tools
+- **Source Control Management (SCM):** [GitHub](https://github.com/) is widely used for version control, collaboration, and code review. Learn more in the [GitHub Docs](https://docs.github.com/en).
+- **Jenkins:** An open-source automation server for building CI/CD pipelines. Jenkins can automate building, testing, and deploying code. See the [Jenkins Documentation](https://www.jenkins.io/doc/).
+- **GitHub Actions:** A CI/CD platform built into GitHub for automating workflows directly in your repository. You can set up workflows for build, test, and deploy. Explore the [GitHub Actions Docs](https://docs.github.com/en/actions).
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Typical CI/CD Process with GitHub
+1. Developers push code changes to a GitHub repository.
+2. Automated workflows (using Jenkins or GitHub Actions) are triggered to build and test the code.
+3. If tests pass, the code is deployed to staging or production environments automatically.
+4. All steps, logs, and results are tracked for transparency and quick troubleshooting.
 
-Jekyll also offers powerful support for code snippets:
+These tools help teams deliver software faster, with higher quality and reliability.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+For more information, check out:
+- [GitHub Documentation](https://docs.github.com/en)
+- [Jenkins Documentation](https://www.jenkins.io/doc/)
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
