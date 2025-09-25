@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Technical Blog!"
+title:  "Everything About Dev Ops"
 date:   2025-09-23 11:54:31 +0530
 categories: jekyll update
 ---
