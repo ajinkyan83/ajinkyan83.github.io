@@ -1,5 +1,14 @@
+---
+layout: post
+title:  "Generative AI"
+date:   2025-09-23 11:54:31 +0530
+categories: jekyll update
+---
 
 # Generative AI: Introduction & Key Concepts
+
+
+# ![Generative AI](/assets/GenerativeAI.png)
 
 ## Common Keywords & Full Forms
 

@@ -107,3 +107,8 @@ For more information, check out:
 - [GitHub Documentation](https://docs.github.com/en)
 - [Jenkins Documentation](https://www.jenkins.io/doc/)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
+
+
+### Data Model:
+
+# ![Dev Ops Data Model](/assets/devops_datamodel.png)
