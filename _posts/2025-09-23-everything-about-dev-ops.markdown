@@ -69,7 +69,27 @@ SCA tools help identify vulnerabilities in open-source dependencies and manage l
 
 ---
 
-## Shift Left Approach for DevSecOps
+
+---
+
+## Common Monitoring Tools in DevOps
+
+Monitoring is essential in DevOps for ensuring system reliability, performance, and rapid incident response. Here are some widely used monitoring tools:
+
+- [Prometheus](https://prometheus.io/): Open-source monitoring and alerting toolkit, popular for cloud-native environments.
+- [Grafana](https://grafana.com/): Visualization and analytics platform, often used with Prometheus.
+- [Datadog](https://www.datadoghq.com/): Cloud-based monitoring, security, and analytics platform.
+- [New Relic](https://newrelic.com/): Full-stack observability and application performance monitoring.
+- [ELK Stack (Elasticsearch, Logstash, Kibana)](https://www.elastic.co/what-is/elk-stack): Centralized logging and analytics.
+- [Splunk](https://www.splunk.com/): Data analytics and monitoring for IT, security, and DevOps.
+- [Nagios](https://www.nagios.org/): Infrastructure monitoring and alerting.
+- [Zabbix](https://www.zabbix.com/): Enterprise-class open-source monitoring solution.
+- [AppDynamics](https://www.appdynamics.com/): Application performance monitoring and management.
+- [AWS CloudWatch](https://aws.amazon.com/cloudwatch/): Monitoring and observability for AWS resources.
+- [Azure Monitor](https://azure.microsoft.com/en-us/services/monitor/): Monitoring for Azure cloud resources.
+- [Google Cloud Operations Suite (formerly Stackdriver)](https://cloud.google.com/products/operations): Monitoring, logging, and diagnostics for GCP.
+
+---
 
 The Shift Left approach integrates security early in the software development lifecycle, moving security practices closer to the development phase rather than waiting until deployment.
 
